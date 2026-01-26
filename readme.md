@@ -449,7 +449,7 @@ This tool is designed to **support**, not replace, clinical judgment. Cognitive 
 
 If using this tool in research or clinical practice, please cite:
 
-> [Author Names]. (2024). Jockey-Specific Cognitive Assessment Tool: A Comparative Normative Framework Using Multivariate and Univariate Regression. Dublin City University, School of Health and Human Performance. Insight SFI Research Centre for Data Analytics.
+> [Shah, M.H, Davood, R.S, et.al.]. (2025). Improving Concussion Assessment in Jockeys: Normative Benchmarks and Web-Based Tool for ImPACT Interpretation Dublin City University, School of Health and Human Performance. Insight SFI Research Centre for Data Analytics.
 
 ---
 
@@ -460,12 +460,10 @@ School of Health and Human Performance
 Dublin City University  
 Dublin, Ireland
 
-Insight SFI Research Centre for Data Analytics
 
 **For Questions:**
-- Methodological inquiries: [Contact Information]
-- Clinical applications: [Contact Information]
-- Technical support: [Contact Information]
+- Methodological inquiries: [maqsood.hussainshah@dcu.ie]
+
 
 ---
 
