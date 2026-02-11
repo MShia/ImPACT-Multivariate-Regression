@@ -1,4 +1,4 @@
-# Web-based Tool for ImPACT Interpretation: Comparing Multivariate and Univariate Regression Models
+# Web-based Tool for ImPACT Interpretation
 ## Comparative Normative Framework Using Multivariate and Univariate Regression
 
 ---
