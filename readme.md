@@ -1,4 +1,4 @@
-# Jockey-Specific Cognitive Assessment Tool
+# Web-based Tool for ImPACT Interpretation: Comparing Multivariate and Univariate Regression Models
 ## Comparative Normative Framework Using Multivariate and Univariate Regression
 
 ---
